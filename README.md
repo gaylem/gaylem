@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer and former product manager with five years of experience in fintech, e-commerce, affiliate marketing, and SEO. I build software that melds human-centered design with innovative backend technologies.
 
-#### https://gaylem.github.io/portfolio/
+### https://gaylem.github.io/portfolio/
 
 <br>
 
