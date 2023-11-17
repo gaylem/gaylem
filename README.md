@@ -3,7 +3,6 @@
 ### I'm a Software Engineer and former product manager with five years of experience in fintech, e-commerce, affiliate marketing, and SEO. I build software that melds human-centered design with innovative backend technologies.
 
 ### [gaylem.github.io](https://gaylem.github.io/)
-
 <br>
 
 <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages and Tools</h1>
