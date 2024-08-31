@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gayle! Thanks for stopping by 😃
 
-### I'm a Software Engineer with five years of product management experience in fintech, e-commerce, affiliate marketing, and SEO. I build software that melds human-centered design with innovative backend technologies.
+### I'm a software engineer and former product manager with five years of experience delivering production-quality software and two years of hands-on full-stack engineering experience.
 
 ### [gaylem.github.io](https://gaylem.github.io/)
 <br>
