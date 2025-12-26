@@ -2,7 +2,6 @@
 
 ### I'm a software engineer and former product manager with five years of experience delivering production-quality software and two years of hands-on full-stack engineering experience.
 
-### [gaylem.github.io](https://gaylem.github.io/)
 <br>
 
 <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages and Tools</h1>
