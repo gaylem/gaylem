@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gayle! Thanks for stopping by 😃
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Gayle. Thanks for stopping by!
 
 <br>
 
