@@ -27,6 +27,5 @@
 
 <h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Stats </h1>
 
-![Gayle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaylem&show_icons=true&theme=cobalt)
 
 
