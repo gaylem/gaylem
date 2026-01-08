@@ -20,12 +20,4 @@
 <img align="left" alt="Amazon" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 
-<br>
-<br>
-<br>
-<br>
-
-<h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Stats </h1>
-
-
 
